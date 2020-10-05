@@ -22,3 +22,4 @@ youtube-dl --write-description --write-info-json --write-annotations --write-sub
 ```
 
 
+   --dump-user-agent --extractor-descriptions  --write-info-json     --print-json 
